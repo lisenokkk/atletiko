@@ -455,6 +455,11 @@ margin: 15px auto;
 #portfolio .portfolio-item:hover .portfolio-info {
   opacity: 1;
 }
+
+.ok {
+    font-size: 25px;
+    color: white;
+}
 /* Start: Recommended Isotope styles */
 /**** Isotope Filtering ****/
 .isotope-item {
@@ -777,6 +782,9 @@ padding: 6px 12px;
 border-radius: 0;
 }
  
+.address {
+    font-style: italic;
+}
 /***********************
 ********* Footer ******
 ************************/
@@ -837,4 +845,6 @@ margin: 9px auto;
 #portfolio .portfolio-item .portfolio-item-inner .portfolio-info {
 padding: 7px 0 0;
 }
+    
+
 }
